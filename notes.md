@@ -7,4 +7,5 @@
 4. <kbd>alt+clic</kbd>crear cursos
 5. <kdb>ctrl+alt+shift+↑↓ </kbd> multiples curores
 6. <kbd>ctrl+p</kbd>buscar archivos
-7. <kbd>
+7. <kbd>ctrl+p</kbd>buscar archivos
+8. <kbd>
