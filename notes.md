@@ -12,3 +12,6 @@
 
 #comandos basicos
 git init
+git commit
+git push
+#
