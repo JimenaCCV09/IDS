@@ -9,3 +9,6 @@
 6. <kbd>ctrl+p</kbd>buscar archivos
 7. <kbd>ctrl+p</kbd>buscar archivos
 8. <kbd>
+
+#comandos basicos
+git init
